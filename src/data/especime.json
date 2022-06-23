@@ -1,0 +1,102 @@
+[
+    {
+        "numSerie": "0001",
+        "idEspecie": 1,
+        "codigoJaula": "00001"
+    },
+    {
+        "numSerie": "0002",
+        "idEspecie": 2,
+        "codigoJaula": "00002"
+    },
+    {
+        "numSerie": "0003",
+        "idEspecie": 3,
+        "codigoJaula": "00003"
+    },
+    {
+        "numSerie": "0004",
+        "idEspecie": 4,
+        "codigoJaula": "00004"
+    },
+    {
+        "numSerie": "0005",
+        "idEspecie": 5,
+        "codigoJaula": "00005"
+    },
+    {
+        "numSerie": "0006",
+        "idEspecie": 1,
+        "codigoJaula": "00002"
+    },
+    {
+        "numSerie": "0007",
+        "idEspecie": 2,
+        "codigoJaula": "00009"
+    },
+    {
+        "numSerie": "0008",
+        "idEspecie": 3,
+        "codigoJaula": "00010"
+    },
+    {
+        "numSerie": "0009",
+        "idEspecie": 4,
+        "codigoJaula": "00004"
+    },
+    {
+        "numSerie": "0010",
+        "idEspecie": 5,
+        "codigoJaula": "00002"
+    },
+    {
+        "numSerie": "0011",
+        "idEspecie": 1,
+        "codigoJaula": "00001"
+    },
+    {
+        "numSerie": "0012",
+        "idEspecie": 2,
+        "codigoJaula": "00006"
+    },
+    {
+        "numSerie": "0013",
+        "idEspecie": 3,
+        "codigoJaula": "00007"
+    },
+    {
+        "numSerie": "0014",
+        "idEspecie": 4,
+        "codigoJaula": "00008"
+    },
+    {
+        "numSerie": "0015",
+        "idEspecie": 5,
+        "codigoJaula": "00009"
+    },
+    {
+        "numSerie": "0016",
+        "idEspecie": 1,
+        "codigoJaula": "00002"
+    },
+    {
+        "numSerie": "0017",
+        "idEspecie": 2,
+        "codigoJaula": "00004"
+    },
+    {
+        "numSerie": "0018",
+        "idEspecie": 3,
+        "codigoJaula": "00007"
+    },
+    {
+        "numSerie": "0019",
+        "idEspecie": 4,
+        "codigoJaula": "00003"
+    },
+    {
+        "numSerie": "0020",
+        "idEspecie": 5,
+        "codigoJaula": "00005"
+    }
+]

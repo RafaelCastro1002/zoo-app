@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nomeCientifico": "Panthera onca",
+        "nomePopular": "onça-preta",
+        "habitat": "florestas",
+        "familia": "felideos",
+        "ordem": "carnivora"
+    },
+    {
+        "id": 2,
+        "nomeCientifico": "Panthera leo",
+        "nomePopular": "leão",
+        "habitat": "África",
+        "familia": "felideos",
+        "ordem": "carnivora"
+    },
+    {
+        "id": 3,
+        "nomeCientifico": "Panthera tigris",
+        "nomePopular": "tigre",
+        "habitat": "continente asiático",
+        "familia": "felideos",
+        "ordem": "carnivora"
+    },
+    {
+        "id": 4,
+        "nomeCientifico": "Leontopithecus rosalia",
+        "nomePopular": "mico-leão-dourado",
+        "habitat": "mata atlântica brasileira",
+        "familia": "Callitrichidae",
+        "ordem": "Primates"
+    },
+    {
+        "id": 5,
+        "nomeCientifico": "Felis silvestris catus",
+        "nomePopular": "gato",
+        "habitat": "europa",
+        "familia": "felideos",
+        "ordem": "carnivora"
+    }
+]

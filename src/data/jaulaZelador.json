@@ -1,0 +1,62 @@
+[
+    {
+        "codigo_jaula": "00001",
+        "matricula_zelador": "12001"
+    },
+    {
+        "codigo_jaula": "00003",
+        "matricula_zelador": "12002"
+    },
+    {
+        "codigo_jaula": "00003",
+        "matricula_zelador": "12003"
+    },
+    {
+        "codigo_jaula": "00004",
+        "matricula_zelador": "12004"
+    },
+    {
+        "codigo_jaula": "00002",
+        "matricula_zelador": "12002"
+    },
+    {
+        "codigo_jaula": "00001",
+        "matricula_zelador": "12003"
+    },
+    {
+        "codigo_jaula": "00003",
+        "matricula_zelador": "12004"
+    },
+    {
+        "codigo_jaula": "00004",
+        "matricula_zelador": "12002"
+    },
+    {
+        "codigo_jaula": "00002",
+        "matricula_zelador": "12003"
+    },
+    {
+        "codigo_jaula": "00005",
+        "matricula_zelador": "12002"
+    },
+    {
+        "codigo_jaula": "00006",
+        "matricula_zelador": "12003"
+    },
+    {
+        "codigo_jaula": "00007",
+        "matricula_zelador": "12001"
+    },
+    {
+        "codigo_jaula": "00008",
+        "matricula_zelador": "12004"
+    },
+    {
+        "codigo_jaula": "00009",
+        "matricula_zelador": "12002"
+    },
+    {
+        "codigo_jaula": "00010",
+        "matricula_zelador": "12002"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "matricula": "12001",
+        "nome": "João Alvez Cunha",
+        "dataNascimento": "1988-05-12"
+    },
+    {
+        "matricula": "12002",
+        "nome": "Pedro Martinez Bezerra",
+        "dataNascimento": "1999-07-23"
+    },
+    {
+        "matricula": "12003",
+        "nome": "Alan da Silva Nascimento",
+        "dataNascimento": "1993-02-19"
+    },
+    {
+        "matricula": "12004",
+        "nome": "Henrique Junior Lopes",
+        "dataNascimento": "1973-07-22"
+    }
+]
